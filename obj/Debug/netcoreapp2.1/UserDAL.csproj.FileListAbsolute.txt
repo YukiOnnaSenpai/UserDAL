@@ -1,0 +1,9 @@
+C:\Users\Wicked Witch\source\repos\URISError\URISErrorUserDAL\bin\Debug\netcoreapp2.1\UserDAL.deps.json
+C:\Users\Wicked Witch\source\repos\URISError\URISErrorUserDAL\bin\Debug\netcoreapp2.1\UserDAL.dll
+C:\Users\Wicked Witch\source\repos\URISError\URISErrorUserDAL\bin\Debug\netcoreapp2.1\UserDAL.pdb
+C:\Users\Wicked Witch\source\repos\URISError\URISErrorUserDAL\obj\Debug\netcoreapp2.1\UserDAL.csprojAssemblyReference.cache
+C:\Users\Wicked Witch\source\repos\URISError\URISErrorUserDAL\obj\Debug\netcoreapp2.1\UserDAL.csproj.CoreCompileInputs.cache
+C:\Users\Wicked Witch\source\repos\URISError\URISErrorUserDAL\obj\Debug\netcoreapp2.1\UserDAL.AssemblyInfoInputs.cache
+C:\Users\Wicked Witch\source\repos\URISError\URISErrorUserDAL\obj\Debug\netcoreapp2.1\UserDAL.AssemblyInfo.cs
+C:\Users\Wicked Witch\source\repos\URISError\URISErrorUserDAL\obj\Debug\netcoreapp2.1\UserDAL.dll
+C:\Users\Wicked Witch\source\repos\URISError\URISErrorUserDAL\obj\Debug\netcoreapp2.1\UserDAL.pdb
